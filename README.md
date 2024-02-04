@@ -2,7 +2,7 @@
 # Custom PDF Processing and Document Generation Tool
 
 ## Description
-This tool is designed to process PDF files, search for specific text, and generate a Word document based on the search results. It utilizes several Python libraries for PDF processing, natural language processing, and document creation.
+This tool is designed to process PDF files, search for specific text, and generate a Word document based on the search results. For example, input Queensland Health and Safety Legislation, ask for a summary of Enterprise Bargining Agreements, and have a structured word document generated with headings organised based on the results of the inputted PDF documents. This function has largely been replaced by GPTs and other RAG systems, but I think this is still a cool starting off point if you want to generate documents with information from a wide range of sources. It utilizes several Python libraries for PDF processing, natural language processing, and document creation.
 
 ## Features
 - PDF text extraction with `pdfplumber`
